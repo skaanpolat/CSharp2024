@@ -9,6 +9,7 @@ namespace KodlamaIOCCC.DataAccess.Abstracts
         void Add(Category category);
         void Update(Category category);
         void Delete(Category category);
+
     }
 }
 
