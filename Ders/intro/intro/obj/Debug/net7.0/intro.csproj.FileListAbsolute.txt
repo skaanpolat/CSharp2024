@@ -1,0 +1,14 @@
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/bin/Debug/net7.0/intro
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/bin/Debug/net7.0/intro.deps.json
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/bin/Debug/net7.0/intro.runtimeconfig.json
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/bin/Debug/net7.0/intro.dll
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/bin/Debug/net7.0/intro.pdb
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/intro.AssemblyInfoInputs.cache
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/intro.AssemblyInfo.cs
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/intro.csproj.CoreCompileInputs.cache
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/intro.dll
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/refint/intro.dll
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/intro.pdb
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/intro.genruntimeconfig.cache
+/Users/s.kaanpolat/DEV/C#2024/Day1/intro/intro/obj/Debug/net7.0/ref/intro.dll
